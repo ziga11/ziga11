@@ -7,7 +7,7 @@ Focused on building high-performance, vertically integrated systems. Specialized
 
 ## 🏗️ Core Engineering Projects
 ### Modular HR Operating System (Distributed Ecosystem)
-**[Link to System Hub/Main Repo]**
+**[Link to System Hub/Main Repo](https://github.com/ziga11/hr_system_hub)**
 * **Scope:** **Solo Development** of a multi-service ERP ecosystem comprising 5+ integrated repositories.
 * **Mobile Infrastructure:** * **Backend:** Engineered in **Go (Golang)** for high-concurrency API performance and real-time Slack API synchronization.
     * **Client:** Developed a cross-platform mobile suite using **Flutter (Dart)** for candidate onboarding and compliance tracking.
