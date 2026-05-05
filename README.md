@@ -21,7 +21,7 @@ Focused on building high-performance, vertically integrated systems. Specialized
 * **Core Engine:** Pure JavaScript & WebGL2. Built without external graphics, physics, or entity-management libraries.
 * **Spatial Data Structures:** * Implemented recursive **Octrees** for 3D collision detection and frustum culling.
 * Utilized **Priority Queues** for efficient event-loop and task scheduling.
-* **AI & Logic:** Custom **A* Pathfinding** for autonomous mob behavior and ray-casting mechanics for combat interaction.
+* **AI & Logic:** Custom **A\* Pathfinding** for autonomous mob behavior and ray-casting mechanics for combat interaction.
 
 ### Geospatial Matching Engine (Specialized Utility)
 **[Link to Repository](https://github.com/yourlink)**
