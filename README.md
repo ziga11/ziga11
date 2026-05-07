@@ -34,18 +34,16 @@ Most interested in full-stack and backend development. Most interested in algori
 * **Optimization & Memory:** Leveraged **Texture Atlasing** and efficient SpriteBatch management to minimize draw calls and optimize GPU memory usage.
 * **State Management:** Architected a **Finite State Machine (FSM)** to handle global game states, enabling decoupled logic between exploration, turn-based combat, and UI overlays.
 
+### Image Processing Tool: Histogram Equalization
+**[Repo](https://github.com/ziga11/Histogram-Equalization/)**
+* **Scope:** Implementation of a **Contrast Enhancement** algorithm for digital image processing.
+* **Core Logic:** Developed an algorithm to calculate **Probability Density Functions (PDF)** and **Cumulative Distribution Functions (CDF)** to re-map pixel intensities.
+* **Implementation:** Built a custom pipeline to process image histograms, effectively spreading out the most frequent intensity values to increase global contrast and reveal hidden detail in low-exposure images.
+
 ---
 
 ## 🛠️ Technical Proficiencies
-
 * **Languages:** JavaScript (ES6+), Python, SQL, GLSL (Shaders), C#, C, Go, Dart.
 * **Computer Science:** Spatial Partitioning (Quadtrees, Octrees), Pathfinding (A*), Computational Geometry.
 * **Back-End:** Node.js, Event-Driven Middleware, RESTful API Design.
 * **Front-End & Graphics:** Flutter, WebGL2 (Buffer/Shader management).
-
----
-
-## 📈 Engineering Principles
-* **Zero-Dependency Logic:** Preference for building custom internal logic (e.g., WebGL2 engines) to maximize performance and minimize overhead.
-* **Algorithmic Efficiency:** Prioritizing optimized data structures ($O(\log n)$ retrieval) over brute-force solutions.
-* **Full-Cycle Ownership:** Proven ability to manage the entire lifecycle from database schema design to cross-platform client deployment.
